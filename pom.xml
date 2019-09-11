@@ -58,11 +58,12 @@
     <module>container</module>
 
     <module>junit</module>
+    <module>junit-jupiter</module>
     <module>testng</module>
 
     <module>testenrichers</module>
     <module>protocols</module>
-  
+
     <module>bom</module>
   </modules>
 
